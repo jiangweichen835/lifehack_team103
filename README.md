@@ -1,6 +1,5 @@
 # lifehack_team103
-our team's solution 
 
-insert writeup here later
+Link to our demo video: https://youtu.be/qEhw47EYw4U
 
-Link to our demo video:
+In the post-COVID-19 world, communication becomes challenging as face-to-face interaction is minimalized and online communication becomes the norm. In such situations, people are unable to feel the warmth and company of having someone right beside them, thus reducing the effectiveness of generating closeness and making a connection. Our idea is simple: provide a new way of interaction online that allows people to open up to one another, sharing opinions to understand each other better. With that, we present to you, “Let’s Chat!”! Our project “Let’s Chat!” is about creating a platform where strangers can get to know each other in a more indepth way, and for current friends and couples to get to know each other better. Our project adopts the 36 questions paradigm used in Arthur Aron’s experiment in the generation of interpersonal closeness. This set of questions can facilitate strangers to get to know each other on a more personal level and make connections with each other. We believe that by using these questions as a trigger in today’s fast paced society, to slow down, think about yourself and tell your story to others, it helps one in stepping out of one’s comfort zone and create/deepen connections with others.
